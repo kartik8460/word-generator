@@ -24,8 +24,9 @@
   border-radius: 50%;
   cursor: pointer;
 }
+
 button {
   border-radius: 5px;
   padding: 10px 35px;
-  margin: 25px 0;
+  margin: 25px 10px;
 }
